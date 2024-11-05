@@ -1,5 +1,6 @@
 # ADVANCED FPS Monitor 🚀 Unity-6
 
+![Fps 2](https://github.com/user-attachments/assets/ca722f4a-dbf8-4af8-9b82-80de6691da7f)
 
 **ADVANCED FPS Monitor** is an advanced tool designed specifically for game developers in Unity, providing comprehensive and precise tracking of game performance. The tool aims to enhance user experience by delivering vital information about game performance, helping you make effective improvements and increase game smoothness. 🌟
 
