@@ -16,8 +16,6 @@
 
 ## Advanced FPS Counter 🎮
 
-![CCC 4](https://github.com/user-attachments/assets/d152b23e-100f-4232-a92d-24e3e61b20b7)
-
 - **Response Time:** Displays response time (in milliseconds) to evaluate speed performance. ⏱️
 - **Current FPS:** Tracks the current frames per second for a smooth experience. 📈
 - **Max FPS:** Shows the highest frame rate achieved to analyze peak performance. 📊
@@ -25,9 +23,6 @@
 - **Average FPS:** Calculates the overall average frame rate for better performance understanding. 📏
 
 ## Advanced Performance Monitoring 📊
-
-![CCC 3](https://github.com/user-attachments/assets/722f2ece-177a-45a1-90ba-5fd88455e1d6)
-
 
 - **CPU Usage:** Displays CPU usage percentage to enhance efficiency. ⚡
 - **Batch Count:** Shows the number of batches in the scene to reduce load. 🔄
